@@ -97,7 +97,7 @@ public:
         return std::move(nodes[1]);
     }
 
-    void display(const std::string& prefix = "", bool isLeft = true) const noexcept
+    void display() const noexcept
     {
         std::cout << "{" << data;
 
