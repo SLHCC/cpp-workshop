@@ -1,3 +1,6 @@
+# .vscode dir
+.vscode
+
 # Prerequisites
 *.d
 
@@ -39,3 +42,6 @@
 
 # debug information files
 *.dwo
+
+# Main executable
+main
