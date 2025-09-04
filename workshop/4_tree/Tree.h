@@ -51,6 +51,7 @@ public:
             std::swap(right(), other.right());
             std::swap(data, other.data);
         }
+        
         return *this;
     }
 

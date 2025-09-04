@@ -1,4 +1,4 @@
-# Makefile for building Main.cpp and ArrayWrapper.cpp
+# Makefile for Iterator example
 CC=g++
 CFLAGS=-Wall -std=c++20
 SRC=Main.cpp Iterator.cpp
